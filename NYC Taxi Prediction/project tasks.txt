@@ -1,0 +1,7 @@
+
+Gizemnur Taskin --> Building DataFrames from .csv input
+Ozlem Cinar --> Kmeens, prediction, fitting
+Mehmet Bayhoca --> Giving output with calculated kmeans and passing output new .csv files
+
+All of Us --> Comparing two images, new .py file
+	  --> Documentation
