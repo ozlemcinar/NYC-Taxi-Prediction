@@ -13,5 +13,5 @@ Outputs:
 
 for Lucrative on NYC Map:
 
-![Lucrative Map Output](/Downloads/04-lucrative.png)
+![Lucrative Map Output](https://github.com/ozlemcinar/NYC-Taxi-Prediction/blob/master/NYC%20Taxi%20Prediction/04-lucrative.png)
 	
